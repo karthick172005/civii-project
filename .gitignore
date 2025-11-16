@@ -1,0 +1,15 @@
+# Node
+node_modules/
+.env
+
+# Flutter / Dart
+.build/
+.dart_tool/
+.packages
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+venv/
